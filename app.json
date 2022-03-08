@@ -59,7 +59,7 @@
         "required": false
       },
       "STRING_SESSION3": {
-        "description": "Pyrogram Dize Oturumu. İkinci Asistan Zorunlu Değildir.",
+        "description": "Pyrogram Dize Oturumu. Üçüncü Asistan Zorunlu Değildir.",
         "value": "",
         "required": false
       },

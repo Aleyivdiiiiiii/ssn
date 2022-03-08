@@ -58,6 +58,11 @@
         "value": "",
         "required": false
       },
+      "STRING_SESSION3": {
+        "description": "Pyrogram Dize Oturumu. İkinci Asistan Zorunlu Değildir.",
+        "value": "",
+        "required": false
+      },
       "HEROKU_API_KEY": {
         "description": "Heroku hesabınızın API anahtarı",
         "value": "",

@@ -1,7 +1,7 @@
 {
     "name": "Talia Winamp Music",
     "description": "Telegram Group Pyrogram ve Py-Tgcalls ile Python'da yazılmış bazı kullanışlı özelliklere sahip akış botlarını çağırır. Youtube, Spotify, Resso, AppleMusic, Soundcloud ve M3u8 Links gibi destekleyici platformlar.",
-    "logo": "https://i.ibb.co/khRz42f/Turkish-Voice.jpg",
+    "logo": "https://images.app.goo.gl/CTTRe8necBLHxxoJ9",
     "keywords": [
     "python3",
     "telegram",
@@ -75,7 +75,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "Eğer bunu bilmiyorsan, Kendi repo adını git olarak yaz.",
-        "value": "https://github.com/Mehmetbaba55/MusicTR",
+        "value": "https://github.com/MehmetAtes21/TR",
         "required": true
       },
       "UPSTREAM_BRANCH": {

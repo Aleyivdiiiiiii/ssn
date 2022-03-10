@@ -85,7 +85,7 @@ async def gen_thumb(videoid):
         )
         draw.text(
             (600, 150),
-            "TALİA WİNAMP",
+            "𝐒𝐓𝐀𝐑 𝐌𝐔𝐒𝐈𝐂",
             fill="white",
             stroke_width=2,
             stroke_fill="white",

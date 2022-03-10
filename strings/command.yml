@@ -23,7 +23,7 @@ DELETEPLAYLIST_COMMAND : ["deleteplaylist", "प्लेलिस्ट-हट�
 # Tools
 QUEUE_COMMAND : ["queue", "पंक्ति", "sira"]
 SONG_COMMAND : ["song", "video", "गीत", "वीडियो", "bul"]
-LYRICS_COMMAND : ["lyrics", "बोल"]
+LYRICS_COMMAND : ["lyrics", "बोल", "soz"]
 
 
 # Admin Commands
@@ -36,8 +36,8 @@ MUTE_COMMAND : ["mute", "मूक"]
 UNMUTE_COMMAND : ["unmute", "अनम्यूट"]
 STOP_COMMAND : ["stop", "end", "विराम", "समाप्त", "son"]
 SKIP_COMMAND : ["skip", "छोड़ें", "atla"]
-SHUFFLE_COMMAND : ["shuffle", "मिश्रण"]
-LOOP_COMMAND : ["loop", "लूप"]
+SHUFFLE_COMMAND : ["shuffle", "मिश्रण", "karıştır"]
+LOOP_COMMAND : ["loop", "लूप", "tekrarla"]
 
 
 # Sudo Users Commaands

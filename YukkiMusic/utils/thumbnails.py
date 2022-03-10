@@ -85,7 +85,7 @@ async def gen_thumb(videoid):
         )
         draw.text(
             (600, 150),
-            "𝐒𝐓𝐀𝐑 𝐌𝐔𝐒𝐈𝐂",
+            "𝐒𝐓𝐀𝐑",
             fill="white",
             stroke_width=2,
             stroke_fill="white",

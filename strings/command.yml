@@ -10,10 +10,10 @@ STATS_COMMAND : ["stats", "आँकड़े"]
 LANGUAGE_COMMAND : ["lang", "language"]
 
 # Play Commands
-PLAY_COMMAND : ["play", "vplay", "cplay", "प्ले", "वीप्ले", "oynat", "dinle"]
+PLAY_COMMAND : ["play", "voynat", "cplay", "प्ले", "वीप्ले", "oynat", "dinle"]
 PLAYMODE_COMMAND : ["playmode", "खेल विधा"]
 CHANNELPLAY_COMMAND : ["channelplay", "चैनलप्ले"]
-STREAM_COMMAND : ["stream", "धारा"]
+STREAM_COMMAND : ["stream", "धारा", "video"]
 
 #Playlists Command
 PLAYLIST_COMMAND : ["playlist", "प्लेलिस्ट"]
@@ -22,7 +22,7 @@ DELETEPLAYLIST_COMMAND : ["deleteplaylist", "प्लेलिस्ट-हट�
 
 # Tools
 QUEUE_COMMAND : ["queue", "पंक्ति", "sira"]
-SONG_COMMAND : ["song", "video", "गीत", "वीडियो", "bul"]
+SONG_COMMAND : ["song", "गीत", "वीडियो", "bul"]
 LYRICS_COMMAND : ["lyrics", "बोल", "soz"]
 
 
@@ -36,7 +36,7 @@ MUTE_COMMAND : ["mute", "मूक"]
 UNMUTE_COMMAND : ["unmute", "अनम्यूट"]
 STOP_COMMAND : ["stop", "end", "विराम", "समाप्त", "son"]
 SKIP_COMMAND : ["skip", "छोड़ें", "atla"]
-SHUFFLE_COMMAND : ["shuffle", "मिश्रण", "karıştır"]
+SHUFFLE_COMMAND : ["shuffle", "मिश्रण", "karıstır"]
 LOOP_COMMAND : ["loop", "लूप", "tekrarla"]
 
 

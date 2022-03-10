@@ -1,4 +1,4 @@
-# Her Dilde Komutlar (Hangi dil yapmasını yaptıysan Aslan parçası :) komutu ekle örnek = "oynat" gibi o dile göre yanına koy... Denendi çalıştı... Hadi kolay gelsin. Telegram'da @Mahoaga diye bulursun... Kendine iyi bak.. 
+# Her Dilde Komutlar (Hangi dil yapmasını yaptıysan Aslan parçası :) komutu ekle örnek = "oynat" gibi o dile göre yanına koy... Denendi çalıştı... Hadi kolay gelsin. Telegram'da @ByWolk diye bulursun... Kendine iyi bak.. 
 
 # Bot Commands
 PING_COMMAND : ["ping", "पिंग"]
@@ -10,10 +10,10 @@ STATS_COMMAND : ["stats", "आँकड़े"]
 LANGUAGE_COMMAND : ["lang", "language"]
 
 # Play Commands
-PLAY_COMMAND : ["play", "voynat", "cplay", "प्ले", "वीप्ले", "oynat", "dinle"]
+PLAY_COMMAND : ["play", "vplay", "cplay", "प्ले", "वीप्ले", "oynat", "dinle"]
 PLAYMODE_COMMAND : ["playmode", "खेल विधा"]
 CHANNELPLAY_COMMAND : ["channelplay", "चैनलप्ले"]
-STREAM_COMMAND : ["stream", "धारा", "video"]
+STREAM_COMMAND : ["stream", "धारा"]
 
 #Playlists Command
 PLAYLIST_COMMAND : ["playlist", "प्लेलिस्ट"]
@@ -36,7 +36,7 @@ MUTE_COMMAND : ["mute", "मूक"]
 UNMUTE_COMMAND : ["unmute", "अनम्यूट"]
 STOP_COMMAND : ["stop", "end", "विराम", "समाप्त", "son"]
 SKIP_COMMAND : ["skip", "छोड़ें", "atla"]
-SHUFFLE_COMMAND : ["shuffle", "मिश्रण", "karıstır"]
+SHUFFLE_COMMAND : ["shuffle", "मिश्रण", "karistir"]
 LOOP_COMMAND : ["loop", "लूप", "tekrarla"]
 
 

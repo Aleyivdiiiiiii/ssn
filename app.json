@@ -25,7 +25,7 @@
       },
       "AUTO_LEAVING_ASSISTANT": {
         "description": "Asistanınızın bir süre sonra tüm sohbetleri otomatik olarak bırakmasını istiyorsanız.",
-        "value": "True",
+        "value": "false",
         "required": true
       },
       "BOT_TOKEN": {

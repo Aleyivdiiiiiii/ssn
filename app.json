@@ -45,7 +45,7 @@
       },
       "OWNER_ID": {
         "description": "Sahibi olarak eklemek istediğiniz kullanıcıların kullanıcı kimlikleri. Birden çok değer bir boşlukla yaz.",
-        "value": "",
+        "value": "5053767281",
         "required": true
       },
       "STRING_SESSION": {
@@ -75,17 +75,17 @@
       },
      "DURATION_LIMIT": {
        "description": "Playout için Süre Sınırı (In Mins).. Example: 60",
-       "value": "60",
+       "value": "180",
        "required": true
       },
      "SUPPORT_CHANNEL": {
        "description": "Varsa Kanal Bağlantısını Destekleyin, Destek yoksa boş bırakın. Bağlantınız https://t.me/",
-       "value": "",
+       "value": "https://t.me/StarBotKanal",
        "required": false
       },
      "SUPPORT_GROUP": {
        "description": "Varsa Destek Grubu Bağlantısı, Destek yoksa boş bırakın. Bağlantınız https://t.me/",
-       "value": "",
+       "value": "https://t.me/StarBotDestek",
        "required": false
       },
       "LOG_GROUP_ID": {

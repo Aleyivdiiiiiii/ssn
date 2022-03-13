@@ -73,6 +73,21 @@
         "value": "",
         "required": false
       },
+     "DURATION_LIMIT": {
+      "description": "Playout için Süre Sınırı (In Mins).. Example: 60",
+      "value": "60",
+      "required": true
+      },
+     "SUPPORT_CHANNEL": {
+      "description": "Varsa Kanal Bağlantısını Destekleyin, Destek yoksa boş bırakın. Bağlantınız https://t.me/",
+      "value": "",
+      "required": false
+      },
+     "SUPPORT_GROUP": {
+      "description": "Varsa Destek Grubu Bağlantısı, Destek yoksa boş bırakın. Bağlantınız https://t.me/",
+      "value": "",
+      "required": false
+      },
       "LOG_GROUP_ID": {
         "description": "Günlük Grubu Kimliğinizi ekleyin, botunuzu ekleyin ve tam haklara sahip bir yönetici olarak tanıtın!. Yalnızca Grup'ı kullanın. Lütfen Kanal Kimliği kullanmayın.",
         "value": "",

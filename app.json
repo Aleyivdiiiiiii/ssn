@@ -90,7 +90,7 @@
       },
       "STREAM_IMG_URL": {
         "description": "Botu baslatiginda karsina cikacak resim",
-        "value": "",
+        "value": "https://images.app.goo.gl/EqAUqYvdiybq6pH4A",
         "required": false
       },
      "SUPPORT_CHANNEL": {

@@ -48,7 +48,7 @@
         "value": "5053767281",
         "required": true
       },
-      "STRING_SESSION1": {
+      "STRING_SESSION": {
         "description": "Pyrogram Dize Oturumu. Bir Asistan Zorunludur.",
         "value": "",
         "required": true

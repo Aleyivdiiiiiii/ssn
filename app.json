@@ -88,11 +88,6 @@
        "value": "180",
        "required": true
       },
-      "STREAM_IMG_URL": {
-        "description": "Botu baslatiginda karsina cikacak resim",
-        "value": "https://images.app.goo.gl/EqAUqYvdiybq6pH4A",
-        "required": false
-      },
      "SUPPORT_CHANNEL": {
        "description": "Varsa Kanal Bağlantısını Destekleyin, Destek yoksa boş bırakın. Bağlantınız https://t.me/",
        "value": "https://t.me/StarBotKanal",

@@ -48,7 +48,7 @@
         "value": "5053767281",
         "required": true
       },
-      "STRING_SESSION": {
+      "STRING_SESSION1": {
         "description": "Pyrogram Dize Oturumu. Bir Asistan Zorunludur.",
         "value": "",
         "required": true
@@ -60,6 +60,16 @@
       },
       "STRING_SESSION3": {
         "description": "Pyrogram Dize Oturumu. Üçüncü Asistan Zorunlu Değildir.",
+        "value": "",
+        "required": false
+      },
+      "STRING_SESSION4": {
+        "description": "Pyrogram Dize Oturumu. Dördüncü Asistan Zorunlu Değildir.",
+        "value": "",
+        "required": false
+      },
+      "STRING_SESSION5": {
+        "description": "Pyrogram Dize Oturumu. Beşinci Asistan Zorunlu Değildir.",
         "value": "",
         "required": false
       },
@@ -77,6 +87,11 @@
        "description": "Playout için Süre Sınırı (In Mins).. Example: 60",
        "value": "180",
        "required": true
+      },
+      "STREAM_IMG_URL": {
+        "description": "Botu baslatiginda karsina cikacak resim",
+        "value": "",
+        "required": false
       },
      "SUPPORT_CHANNEL": {
        "description": "Varsa Kanal Bağlantısını Destekleyin, Destek yoksa boş bırakın. Bağlantınız https://t.me/",
